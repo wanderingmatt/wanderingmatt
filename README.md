@@ -8,10 +8,10 @@ I prioritize opportunities to work on things that uplift and empower people. I'm
 
 ---
 
-- :briefcase: VP of Product and Founding Product Designer at [Onehub](https://www.onehub.com/home)
-- :microphone: Co-Host of [Chips & Bits](https://chips-and-bits.com/)
-- :speech_balloon: Ask me about Product Design, Web Standards, and Design Systems
-- :zap: Currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- :video_game: Currently playing [Hades](https://www.supergiantgames.com/games/hades/)
-- :handshake: Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewanderson/)
-- :bird: Hit me up [@wanderingmatt](https://twitter.com/wanderingmatt)
+- :briefcase:&nbsp; VP of Product and Founding Product Designer at [Onehub](https://www.onehub.com/home)
+- :microphone:&nbsp; Co-Host of [Chips & Bits](https://chips-and-bits.com/)
+- :speech_balloon:&nbsp; Ask me about Product Design, Web Standards, and Design Systems
+- :zap:&nbsp; Currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- :video_game:&nbsp; Currently playing [Hades](https://www.supergiantgames.com/games/hades/) and [Ghost of Tsushima](https://www.suckerpunch.com/category/games/ghostoftsushima/)
+- :handshake:&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewanderson/)
+- :bird:&nbsp; Hit me up [@wanderingmatt](https://twitter.com/wanderingmatt)
