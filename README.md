@@ -12,7 +12,7 @@ I prioritize opportunities to work on things that uplift and empower people. I'm
 - :microphone:&nbsp; Co-Host of [Chips & Bits](https://chips-and-bits.com/)
 - :briefcase:&nbsp; Formerly VP of Product at [Onehub](https://www.onehub.com/home), Design Lead at Likewise, and Freelancer
 - :speech_balloon:&nbsp; Ask me about product design, web standards, design systems, emerging technologies, and mentorship
-- :thought_balloon:&nbsp; Currently learning [Origami](https://origami.design/)
-- :video_game:&nbsp; Currently playing [Sekiro](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/) and [It Takes Two](https://store.steampowered.com/app/1426210/It_Takes_Two/)
+- :thought_balloon:&nbsp; Currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Origami](https://origami.design/)
+- :video_game:&nbsp; Currently playing [Overwatch 2](https://overwatch2.playoverwatch.com/en-us/trailer) and [Guardians of the Galaxy](https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/)
 - :handshake:&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewanderson/)
 - :bird:&nbsp; Hit me up [@wanderingmatt](https://twitter.com/wanderingmatt)
