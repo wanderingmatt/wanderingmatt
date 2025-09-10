@@ -8,10 +8,10 @@ I prioritize opportunities to work on things that uplift and empower people. I l
 
 ---
 
-- :zap: Owner + Principal at Wander
+- :zap: Principal / Owner at Wander
 - :briefcase:&nbsp; Formerly Design Lead at [Meta](https://about.facebook.com/meta/) and VP of Product at [Onehub](https://www.onehub.com/home)
-- :microphone:&nbsp; Co-Host of [Chips & Bits](https://chips-and-bits.com/)
 - :speech_balloon:&nbsp; Ask me about product design, web standards, design systems, emerging technologies, and mentorship
-- :video_game:&nbsp; Currently playing [Marvel Snap](https://www.marvelsnap.com/) and [Alan Wake 2](https://www.alanwake.com/)
+- :microphone:&nbsp; Co-Host of [Chips & Bits](https://chips-and-bits.com/) (on hiatus)
+- :video_game:&nbsp; Currently playing [Marvel Snap](https://www.marvelsnap.com/) and [Clair Obscur: Expedition 33](https://www.expedition33.com/)
 - :handshake:&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewanderson/)
-- :atom: &nbsp; Hit me up [@wanderingmatt](https://www.threads.net/@wanderingmatt)
+- :butterfly: &nbsp; Hit me up [@wanderingmatt.com](https://bsky.app/profile/wanderingmatt.com)
